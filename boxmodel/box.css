@@ -1,0 +1,19 @@
+.container{
+    background-position: center;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(256, 100, 230);
+     margin-top: 40px; 
+    margin-left: 400px; 
+    border-top: 10px outset rgb(5, 15, 20);
+    border-bottom: 10px inset rgb(3, 83, 14);
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    box-shadow: -350px 0px 45px 20px rgba(12, 4, 32, 0.606),
+    0px 300px 45px 20px rgba(129, 12, 12, 0.606);
+}
+body{
+    height: 800px;
+    width: 100%;
+    /* box-sizing: border-box; */
+}
